@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/junit.jar
+Main-Class: lt.hansa.decathlon.app.DecathlonApplication
+
